@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="nomanthecoder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nomanthecoder" alt="nomanthecoder" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nomannadeem" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Azad Chaiwala Institute**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
