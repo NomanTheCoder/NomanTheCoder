@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <p>I'm Noman Nadeem, a software developer with over 1 years of experience in web applications. I'm truly passionate about writing neat, efficient code that gives users a great experience. I'm always in search of new challenges, challenges are my strength.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="nomanthecoder" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nomannadeem&label=Profile%20views&color=0e75b6&style=flat" alt="nomannadeem" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nomannadeem" alt="" /></a> </p>
 
